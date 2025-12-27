@@ -1,4 +1,4 @@
-## 7️⃣ Sales Dashboard
+Ecommerce Sales Report Dashboard
 
 ### 📌 Business Problem (WHY)
 
@@ -38,3 +38,4 @@ Many businesses track sales data but lack a single, reliable dashboard that give
 ### 🚀 Business Impact
 
 Provides leadership with a single source of truth for sales monitoring and supports faster, data-driven decisions.
+
